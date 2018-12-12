@@ -1,0 +1,32 @@
+
+
+- Documentazione su fogli di plastica
+- Discussione di concetti con i fogli di progetto con il pc
+- Qualsiasi prova documentata nella doc
+- matrice delle responsabilità (chi ha fatto cosa)
+- 20 prove differenti
+- Intestazione (va bene quella di notarstefano)
+- Sommario (schema logico)
+	1) contesto e descrizione informale del problema 1-2 pg
+	2) stato dell'arte
+	3) diagramma dei goal stakeholder (soggetti coinvolti nello scenario di business e i goal da raggiungere (possibile tabella))
+	4) modello informativo
+	5) modello di presentazione
+	6) modello architetturale
+	7) aspetti implementativi
+		7.1) test
+	8) conclusione
+
+1-6 modellazione
+7 implementazione e test 
+8 conclusione
+
+- Appendici
+	A) minute degli incontri (meno di una pagina riassunto della riunione data, i presenti, il progetto, gli argomenti in discussione
+		le decisioni, primo incontro kick off)
+	B) codice sorgente
+	C) ..... 
+	(materiale per completare il documento ma che non si possono inserire sopra)
+
+
+
